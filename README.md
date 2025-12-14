@@ -8,7 +8,7 @@ This is by far the most simple and easy to set up Ai aim tracker
 
 Create a new folder (RyzenTracker).
 
-put the file named main.py inside this folder.
+put the file named Ryzen_Aim.py inside this folder.
 
 Make sure your model file (best.pt) and (best.onnx) is also in this folder.
 
