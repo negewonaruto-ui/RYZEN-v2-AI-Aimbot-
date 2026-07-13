@@ -1,31 +1,37 @@
-# RYZEN-v2-AI-Aimbot-
+RYZEN-v2-AI-Aimbot
+This is by far the simplest and easiest AI aim tracker to set up.
 
-This is by far the most simple and easy to set up Ai aim tracker
+🛠️ Setup Instructions
+1. Create the Directory
+Create a new folder on your computer and name it RyzenTracker.
 
+2. Add the Script
+After downloading the files from my page, place the script named Ryzen_Aim.py inside the RyzenTracker folder.
 
+3. Add the Models
+Ensure your AI model files (best.pt and best.onnx) are also placed inside the RyzenTracker folder.
 
+4. Install Dependencies
+You will need to install the required Python libraries to run the tracker.
 
+Navigate to your RyzenTracker folder.
 
-Create a new folder (RyzenTracker).
+Click on the folder's address bar at the top of the window (refer to Screenshot #2).
 
-put the file named Ryzen_Aim.py inside this folder.
+Type cmd and press Enter to open the Command Prompt directly in that folder.
 
-Make sure your model file (best.pt) and (best.onnx) is also in this folder.
+Copy and paste the following command into the Command Prompt, then press Enter:
 
-Open the Command Prompt or PowerShell, navigate to your folder, and run the script
+Bash
+pip install opencv-python mss numpy pywin32 ultralytics
+🚀 How to Run the Tracker
+Once the installation is complete, you can start the program using the same Command Prompt window. Just copy and paste the following command and press Enter:
 
-
-
-Open your Command Prompt (CMD)
-Run the following command to install all necessary Python libraries:
-
-Bash:
-" pip install opencv-python mss numpy pywin32 ultralytics " what is inside the quotation 
-
-
-How to Use
-Activate Tracking: Hold the Right Mouse Button (the code detects the state of key 0x02, which is RMB).
+Bash
+python Ryzen_Aim.py
+🎮 Controls & Usage
+Activate Tracking: Hold down the Right Mouse Button (the script detects the state of key 0x02, which is RMB).
 
 Deactivate Tracking: Release the Right Mouse Button.
 
-Quit Program: Press 'q' while the visual window is focused.
+Quit Program: Ensure the visual tracker window is in focus, then press the q key to safely exit the script.
