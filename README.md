@@ -1,4 +1,5 @@
-RYZEN-v2-AI-Aimbot
+*The script requires Python 3.8 or newer if you want it to work*
+
 This is by far the simplest and easiest AI aim tracker to set up.
 
 🛠️ Setup Instructions
