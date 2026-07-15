@@ -36,3 +36,9 @@ Activate Tracking: Hold down the Right Mouse Button (the script detects the stat
 Deactivate Tracking: Release the Right Mouse Button.
 
 Quit Program: Ensure the visual tracker window is in focus, then press the q key to safely exit the script.
+
+
+
+
+
+NOTE: MAKE SURE YOU ARE USING CLOUD GAMING BECAUSE THIS AIMBOT IS DETECTABLE 
