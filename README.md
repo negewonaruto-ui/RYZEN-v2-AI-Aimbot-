@@ -17,19 +17,21 @@ You will need to install the required Python libraries to run the tracker.
 
 Navigate to your RyzenTracker folder.
 
-Click on the folder's address bar at the top of the window (refer to Screenshot #2).
+Click on the folder's address bar at the top of the window (refer to Screenshot #2 LOOK AT AT IT CAREFULLY ).
 
 Type cmd and press Enter to open the Command Prompt directly in that folder.
 
-Copy and paste the following command into the Command Prompt, then press Enter:
+Copy and paste the following command into the Command Prompt(THE BLACK WIND THING), then press Enter:
 
-Bash
-pip install opencv-python mss numpy pywin32 ultralytics
+
+" pip install opencv-python mss numpy pywin32 ultralytics "
+
 🚀 How to Run the Tracker
-Once the installation is complete, you can start the program using the same Command Prompt window. Just copy and paste the following command and press Enter:
+Once the installation is complete, you can start the program using the same Command Prompt window(DONT CLOSE THE BLACK WINDOW AFTER THE INSTALLING). Just copy and paste the following command and press Enter:
 
-Bash
-python Ryzen_Aim.py
+
+" py Ryzen_Aim.py "
+
 🎮 Controls & Usage
 Activate Tracking: Hold down the Right Mouse Button (the script detects the state of key 0x02, which is RMB).
 
@@ -41,4 +43,6 @@ Quit Program: Ensure the visual tracker window is in focus, then press the q key
 
 
 
-NOTE: MAKE SURE YOU ARE USING CLOUD GAMING BECAUSE THIS AIMBOT IS DETECTABLE 
+NOTE: MAKE SURE YOU ARE USING CLOUD GAMING(GEFORCE OR CLOUD GAMING XBOX) BECAUSE THIS AIMBOT IS DETECTABLE 
+
+IF YOU WAN THE UPDATED VERSION ADD MY DISCORD: reebok1
